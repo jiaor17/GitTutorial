@@ -1,2 +1,0 @@
-Name		Student ID		Room No.		Phone Number
-KangHongbo	2016011314		2-107B			18583900103
